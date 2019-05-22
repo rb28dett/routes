@@ -1,0 +1,9 @@
+{
+    "items": [
+        {
+            "permission" : "rb28dett::routes.access",
+            "trans": "rb28dett_routes::general.routes",
+            "route": "rb28dett::routes.index"
+        }
+    ]
+}
